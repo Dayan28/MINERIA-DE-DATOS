@@ -1,5 +1,5 @@
 # MINERIA-DE-DATOS
 
-## Fase1
+## Fase 1
 
 [Mapa Mental I] 
