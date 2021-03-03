@@ -8,4 +8,6 @@
 
 [Ejercicios Básicos de Python](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/Ej_Python_1749744.ipynb)
 
+[Práctica Limpieza de Datos]
 
+[Primera Entrega del PIA]
