@@ -10,4 +10,4 @@
 
 [Práctica Limpieza de Datos]
 
-[Primera Entrega del PIA]
+[Primera Entrega del PIA]https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Avance1_PIA_Equipo1.ipynb
