@@ -20,3 +20,5 @@
 [Ejemplo Técnicas de Minería](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/EjemploSeriesDeTiempo_Equipo1.R)
 
 [Mini Examen Técnicas de Minería](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Calificaci%C3%B3n_SeriesDeTiempo_Equipo1.pdf)
+
+[Mapa Mental II](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/MapaMental_2_1749744.pdf)
