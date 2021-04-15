@@ -22,3 +22,8 @@
 [Mini Examen Técnicas de Minería](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Calificaci%C3%B3n_SeriesDeTiempo_Equipo1.pdf)
 
 [Mapa Mental II](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/MapaMental_2_1749744.pdf)
+
+## Fase 3
+[Ejercicio Visualización](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Visualizacion_Equipo1.ipynb)
+
+[PIA - Segunda Entrega](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/AvancePIA_II_02_Equipo1.ipynb)
