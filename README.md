@@ -28,5 +28,5 @@
 
 [PIA - Segunda Entrega](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/AvancePIA_II_02_Equipo1.ipynb)
 
-[PIA - Póster](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/Poster%20Mineria%20de%20Datos.pdf)
+[PIA - Póster](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/Poster%20Mineria%20de%20Datos%20(1).pdf)
 
